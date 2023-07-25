@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Level 3 Mario.unity
+  isLoaded: 1
+  isActive: 1
